@@ -101,8 +101,8 @@ importers:
         specifier: 7.21.8
         version: 7.21.8
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -123,8 +123,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -145,8 +145,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -218,8 +218,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       eslint-config-custom:
         specifier: workspace:*
         version: link:../eslint-config-custom
@@ -237,8 +237,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -296,8 +296,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -318,8 +318,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -343,8 +343,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -365,8 +365,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -387,8 +387,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -409,8 +409,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -431,8 +431,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -456,8 +456,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -478,8 +478,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -579,8 +579,8 @@ importers:
         version: 18.2.0(react@18.2.0)
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@types/html-to-text':
         specifier: 9.0.1
         version: 9.0.1
@@ -604,8 +604,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -626,8 +626,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -657,8 +657,8 @@ importers:
         specifier: 7.21.8
         version: 7.21.8
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/head':
         specifier: workspace:*
         version: link:../head
@@ -688,8 +688,8 @@ importers:
         version: 18.2.0
     devDependencies:
       '@babel/preset-react':
-        specifier: 7.22.5
-        version: 7.22.5(@babel/core@7.21.8)
+        specifier: 7.22.15
+        version: 7.22.15(@babel/core@7.21.8)
       '@react-email/render':
         specifier: workspace:*
         version: link:../render
@@ -995,8 +995,8 @@ packages:
       '@babel/helper-plugin-utils': 7.22.5
     dev: true
 
-  /@babel/preset-react@7.22.5(@babel/core@7.21.8):
-    resolution: {integrity: sha512-M+Is3WikOpEJHgR385HbuCITPTaPRaNkibTEa9oiofmJvIsrceb4yp9RL9Kb+TE8LznmeyZqpP+Lopwcx59xPQ==}
+  /@babel/preset-react@7.22.15(@babel/core@7.21.8):
+    resolution: {integrity: sha512-Csy1IJ2uEh/PecCBXXoZGAZBeCATTuePzCSB7dLYWS0vOEj6CNpjxIhW4duWwZodBNueH7QO14WbGn8YyeuN9w==}
     engines: {node: '>=6.9.0'}
     peerDependencies:
       '@babel/core': ^7.0.0-0

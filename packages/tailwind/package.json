@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.21.8",
-    "@babel/preset-react": "7.22.5",
+    "@babel/preset-react": "7.22.15",
     "@react-email/hr": "workspace:*",
     "@react-email/head": "workspace:*",
     "@react-email/html": "workspace:*",
