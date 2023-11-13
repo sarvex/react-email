@@ -49,7 +49,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@babel/preset-react": "7.22.5",
+    "@babel/preset-react": "7.23.3",
     "@types/html-to-text": "9.0.1",
     "@types/pretty": "2.0.1",
     "eslint-config-custom": "workspace:*",
